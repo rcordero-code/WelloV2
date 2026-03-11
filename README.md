@@ -1,2 +1,0 @@
-# WelloV2
-Welloapp
